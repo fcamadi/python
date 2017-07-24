@@ -1,1 +1,6 @@
 
+
+Exercise in Python done for the russian office in SPB of an american company (Genesys)
+
+They didn't like it ... (because I didn't understand correctly the description of what had to be done.
+It was in Russian!)
