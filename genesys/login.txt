@@ -1,0 +1,6 @@
+smtp.gmail.com
+587
+fcamadi
+<<password>>
+fcamadi@gmail.com
+fcamadi@gmail.com
